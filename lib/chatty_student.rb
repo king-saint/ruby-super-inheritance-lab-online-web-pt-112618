@@ -15,3 +15,4 @@ def ChattyStudent < Student
     end
         
 end
+end
